@@ -1,5 +1,5 @@
-# my_Profile
-[![MasterHead](https://drive.google.com/file/d/1_fPf1kUvlY_FG3ZdI1As_T_rokrJLawf/view?usp=sharing)]
+
+[![MasterHead](https://www.canva.com/design/DAEkYKydqcc/t2Zk4kfAFadjXJAXNq8TeQ/view?utm_content=DAEkYKydqcc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)]
 <h1 align="center">Hi 👋, I'm Puranjay kwatra</h1>
 <h3 align="center">Machine learning Enthusiast</h3>
 
